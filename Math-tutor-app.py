@@ -1,4 +1,8 @@
 """
+Author: Vema Dondeti
+Date: 2025-05-30
+Version: 1.0
+
 📚 Interactive Math Tutor Chatbot (Streamlit App)
 
 This Streamlit app serves as an AI-powered math tutor for elementary-level students,
