@@ -266,9 +266,8 @@ with tab2:
 
     ### 🤖 Model Details:
     - **Base Model:** gpt-3.5-turbo-0125
-    - **Fine-tuned Model ID:** ft:gpt-3.5-turbo-0125:personal:math-tutor:BVPvM7jo
+    - **Fine-tuned Model :** Custom fine-tuned version for elementary-level math tutoring
 
-    **Developed for:** Final project - Interactive Math Tutor Chatbot
     """)
 
 # ----------------- Tab 3: Feedback -----------------
@@ -311,5 +310,4 @@ with st.sidebar:
     st.markdown("📚 **Elementary Math Tutor**")
     st.markdown("Ask questions in the *Math Tutor* tab.")
     st.markdown("Learn more about this application in the About tab.")
-    st.markdown("---")
-    st.markdown("Developed as part of a final project.")
+
